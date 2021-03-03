@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seth Glenn and I'm from Overland Park, KS</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **React, and Python**
-
 - 👨‍💻 All of my projects are available at [https://sethglenn.github.io/](https://sethglenn.github.io/)
 
 - 📫 How to reach me **sbgees@yahoo.com**
