@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sethglenn.github.io/](https://sethglenn.github.io/)
 
-- 📫 How to reach me **sbgees@yahoo.com**
+- 📫 How to reach me **sbgees@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KpoPY35s1rUh_gc5fd8C8B2hoV2AZ5JD/view](https://drive.google.com/file/d/1KpoPY35s1rUh_gc5fd8C8B2hoV2AZ5JD/view)
 
